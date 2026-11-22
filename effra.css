@@ -1,0 +1,9 @@
+/*
+ * Effra (Dalton Maag). The files in this folder are trial builds and must be
+ * replaced with a licensed webfont before launch. Keep the same filenames.
+ */
+@font-face { font-family: 'Effra'; src: url('effra-400.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Effra'; src: url('effra-400-italic.woff2') format('woff2'); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Effra'; src: url('effra-500.woff2') format('woff2'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Effra'; src: url('effra-600.woff2') format('woff2'); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Effra'; src: url('effra-700.woff2') format('woff2'); font-weight: 700; font-style: normal; font-display: swap; }
